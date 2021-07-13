@@ -1,0 +1,1 @@
+Chat client that connects to a server using sockets and pipes,to send messages between clients on the same server
